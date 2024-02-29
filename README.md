@@ -26,6 +26,6 @@ Significant enhancement in accuracy to 63% post fine-tuning.
 Successfully deployed the model to an FPGA DE10 nano.
 
 
-![Alt Text](https://github.com/akshaywalkoli/Hand-Hygiene-Compliance-Monitoring-System-Using-Gesture-Recognition-and-Deep-Learning/blob/master/HandWash_Video.gif)
+![Alt Text](https://github.com/Automatic-Attendance-System/myproj180/blob/master/HandWash_Video.gif)
 
 Original Video link: https://github.com/akshaywalkoli/Hand-Hygiene-Compliance-Monitoring-System-Using-Gesture-Recognition-and-Deep-Learning/blob/master/HandWash_Video.mp4
